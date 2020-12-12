@@ -62,6 +62,24 @@ Podczas spaceru:
   </ul>
   <br>
 </details> 
+
+<details>
+  <summary>Numery Antyrepresyjne - kontakt z pomocą prawną</summary>
+  <br>
+<h3>Kraków</h3>
+Bezpłatna infolinia dla pokrzywdzonych podczas Strajku Kobiet:<br>
+<h3>+48 12 881 02 29</h3>
+  <br>
+    <br>
+<h3>Warszawa</h3>
+Numer antyrepresyjny Kolektywu SZPIL(A):<br>
+<h3>+48 722 196 139</h3>
+<br>
+<br>
+<h3>Inne miasta</h3>
+<a  href="https://www.adwokatura.pl/z-zycia-ora/pomoc-prawna-pro-bono-dla-protestujacych-po-wyroku-tk/">Zobacz listę numerów do pomocy prawnej oferowanej przez lokalne Okręgowe Izby Adwokackie</a>  
+</details> 
+
 <br>
 <h3>Legitymują!</h3>
 <details>
@@ -169,15 +187,15 @@ Informuję także, że grożenie mi lub innym osobom odpowiedzialnością karną
 <li>Głośno i wyraźnie krzycz swoje imię i nazwisko w stronę tłumu – postaraj się aby ktoś znajomy lub osoba, która spaceruje blisko ciebie zaczęli nagrywać zatrzymanie.</li>
 <li>Musisz pozwolić policjantowi wylegitymować się przy okazji zatrzymania, ale żądaj podania przyczyny faktycznej oraz prawnej legitymowania oraz zatrzymania – nie tylko samego numeru przepisu, ale także informacji o tym, o jakie przestępstwo jesteś podejrzana i na podstawie jakich dowodów.</li>
 <li>Natychmiast żądaj kontaktu z prawnikiem i zadzwoń do centrali prawnej<br>
-Uwaga! Nie daj się zbyć. Powtarzaj w kółko to samo zdanie, dopóki policja nie pozwoli ci skontaktować się z prawnikiem:
+Uwaga! Nie daj się zbyć. Powtarzaj w kółko to samo zdanie, dopóki policja nie pozwoli ci skontaktować się z prawnikiem:<br><br>
 
-<b>Żądam natychmiastowego kontaktu z prawnikiem i nie zgadzam się na podejmowanie wobec mnie jakichkolwiek dalszych czynności aż do momentu pojawienia się prawnika.</b></li>
+<b>Żądam natychmiastowego kontaktu z prawnikiem i nie zgadzam się na podejmowanie wobec mnie jakichkolwiek dalszych czynności aż do momentu pojawienia się pomocy prawnej.</b><br></li>
 
 <li>Podczas telefonu do centrum prawnego głośno i wyraźnie podaj swoje imię i nazwisko, odpowiedź na pytania centrum prawnego.</li>
 
 <li>Podczas czekania na prawnika bądź przetrzymywania cię na komisariacie nie przyznawaj się do niczego, odmawiaj składania wyjaśnień, czekaj na prawnika, niczego nie podpisuj.<br>
-Uwaga! Nie masz obowiązku nic mówić. Powtarzaj w kółko:<br>
-Żądam natychmiastowego kontaktu z prawnikiem i nie zgadzam się na podejmowanie wobec mnie jakichkolwiek dalszych czynności aż do momentu pojawienia się prawnika.</li>
+<b>Uwaga! Nie masz obowiązku nic mówić. Jeśli chcesz, powtarzaj w kółko:<br>
+Żądam natychmiastowego kontaktu z prawnikiem i nie zgadzam się na podejmowanie wobec mnie jakichkolwiek dalszych czynności aż do momentu pojawienia się pomocy prawnej.</b></li>
 
 <li>Nie zgadzaj się na sporządzenie protokołu zatrzymania przed pojawieniem się prawnika.</li>
 <li>Jeśli podczas zatrzymania odniosłaś jakiekolwiek obrażenia – żądaj wpisania dokładnych informacji o tym do protokołu oraz żądaj kontaktu z lekarzem. Po opuszczeniu komisariatu udaj się na obdukcję. </li>
