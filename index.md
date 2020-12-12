@@ -152,7 +152,7 @@ Informuję także, że grożenie mi lub innym osobom odpowiedzialnością karną
 </details> 
 
 <br>
-<h3>Zatrzumują!</h3>
+<h3>Zatrzymują!</h3>
 <details>
   <summary>Co robić, kiedy policjant zatrzyma mnie w trakcie protestu lub po nim?</summary>
   <br>
